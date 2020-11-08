@@ -1,9 +1,8 @@
 import time
-from ..micropython_ota_updater.main.ota_updater import OTAUpdater
 
 def run():
     # Initialize the Homie device
-    print("main program starting")
+    print("NEW main program starting")
 
 
 
